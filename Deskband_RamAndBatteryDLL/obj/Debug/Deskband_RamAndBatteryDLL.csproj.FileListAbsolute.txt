@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\apps\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.Band_UserControl.resources
+C:\Users\user\Downloads\apps\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.csproj.GenerateResource.cache
+C:\Users\user\Downloads\apps\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\apps\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\bin\Debug\Deskband_RamAndBatteryDLL.dll
+C:\Users\user\Downloads\apps\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\bin\Debug\Deskband_RamAndBatteryDLL.pdb
+C:\Users\user\Downloads\apps\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.dll
+C:\Users\user\Downloads\apps\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.pdb
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\bin\Debug\install.bat
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\bin\Debug\uninstall.bat
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\bin\Debug\Deskband_RamAndBatteryDLL.dll
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.Band_UserControl.resources
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.Properties.Resources.resources
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.csproj.GenerateResource.cache
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.csproj.CoreCompileInputs.cache
+D:\OneDrive\htdocs\Deskband_RamAndBattery\Deskband_RamAndBatteryDLL\obj\Debug\Deskband_RamAndBatteryDLL.dll
