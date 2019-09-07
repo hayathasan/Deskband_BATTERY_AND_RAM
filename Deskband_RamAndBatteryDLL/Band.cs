@@ -12,13 +12,11 @@ namespace Deskband_RamAndBatteryDLL
     public class Band : CSDeskBand.CSDeskBandWin
     {
         private static Control _control;
-
         public Band()
         {
             Options.MinHorizontalSize = new Size(90, 30);
             _control = new Band_UserControl(this);
         }
-
         protected override Control Control => _control;
     }
 }

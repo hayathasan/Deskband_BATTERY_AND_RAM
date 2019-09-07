@@ -38,9 +38,7 @@ namespace Deskband_RamAndBatteryDLL
             if (memoryValues != null)
             {
                 label4.Text = Math.Round(((memoryValues.TotalVisibleMemorySize - memoryValues.FreePhysicalMemory) / memoryValues.TotalVisibleMemorySize) * 100, 0) + "%";
-            }
-
-            
+            }            
         }
     }
 }
